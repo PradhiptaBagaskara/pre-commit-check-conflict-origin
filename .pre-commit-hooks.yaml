@@ -1,0 +1,6 @@
+-   id: check-git-branch-conflict
+    name: Check for merge conflicts with defined origin branch
+    description: Check for files that contain merge conflict with defined origin branch
+    entry: check-git-branch-conflict
+    language: python
+    types: [text]
